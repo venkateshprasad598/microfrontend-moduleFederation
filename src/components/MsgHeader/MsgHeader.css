@@ -1,0 +1,15 @@
+.messages-header {
+  padding: 15px 26px;
+  border-bottom: 2px solid #f0f0f0;
+  background-color: #ffffff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.header-avatar {
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+}

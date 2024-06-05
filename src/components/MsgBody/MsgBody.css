@@ -1,0 +1,22 @@
+.messages-body {
+  width: 100%;
+  overflow-y: auto;
+  position: relative;
+  padding: 35px 26px 12px 26px;
+  height: 100%;
+}
+.left-msg-box > span {
+  padding: 14px 14px 22px 14px;
+  background-color: #f6f6f6;
+  border-radius: 10px;
+  word-break: break-all;
+}
+
+.right-msg-box > span {
+  padding: 14px 14px 22px 14px;
+  background-color: #215fff;
+  color: #ffffff;
+  min-width: 70px;
+  word-break: break-all;
+  border-radius: 10px;
+}
